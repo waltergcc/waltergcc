@@ -1,5 +1,7 @@
 # Hi, I'm Walter 👋
 🧩 I'm passionate about problem solving<br>
+🪛 My background is in IT Technical Support<br>
+🙋‍♂️ I was a full-time volunteer for 7 years<br>
 📚 I'm currently a student at 42 Porto
 
 ## These are the languages and tools I've studied so far
@@ -8,6 +10,7 @@
 ![Shell](https://img.shields.io/badge/shell_script-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=oracle&logoColor=FFB13C)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
