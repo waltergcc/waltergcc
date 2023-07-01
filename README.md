@@ -2,7 +2,7 @@
 🧩 I'm passionate about troubleshooting<br>
 🗃️ I also love to organize things<br>
 🪛 My background is in IT support<br>
-🙋‍♂️ I was a full-time volunteer for 7 years<br>
+🤝 I was a full-time volunteer for 7 years<br>
 📚 I'm currently a student at 42 Porto
 
 ## These are the languages and tools I've studied so far
