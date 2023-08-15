@@ -24,5 +24,5 @@
 
 [![wcorrea-'s 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/wcorrea-)
 ## And these are my Github status
-![](https://github-readme-stats.vercel.app/api?username=waltergcc&show_icons=true&hide_border=true&bg_color=0D1117&text_color=f8f8f2&icon_color=3893F5&&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waltergcc&text_color=f8f8f2&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=f8f8f2)
+![](https://github-readme-stats.vercel.app/api?username=waltergcc&show_icons=true&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waltergcc&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
