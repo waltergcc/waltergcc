@@ -23,7 +23,7 @@
 ## This is my current status at school
 
 <!-- [![wcorrea-'s 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/wcorrea-) -->
-[![wcorrea-'s 42 stats](https://badge.mediaplus.ma/darkblue/wcorrea-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![wcorrea-'s 42 stats](https://badge.mediaplus.ma/darkblue/wcorrea-?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/wcorrea-)
 ## And these are my Github status
 ![](https://github-readme-stats.vercel.app/api?username=waltergcc&show_icons=true&hide_border=true&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waltergcc&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
