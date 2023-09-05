@@ -5,6 +5,17 @@
 🤝 I was a full-time volunteer for 7 years<br>
 📚 I'm currently a student at 42 Porto
 
+## This is me as a code
+```cpp
+int main()
+{
+    std::string const WALTER = "always learning";
+
+    while (WALTER == "always learning")
+        std::cout << "I'm " << WALTER << " in an infinite loop!" << std::endl;
+}
+```
+
 ## These are the languages and tools I've studied so far
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)
