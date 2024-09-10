@@ -3,7 +3,8 @@
 🗃️ I also love to organize things<br>
 🪛 My background is in IT support<br>
 🤝 I was a full-time volunteer for 7 years<br>
-📚 I'm currently a student at 42 Porto
+📚 I completed the 42 School Common Core<br>
+💼 I'm currently a Junior Full-Stack Developer at RTE S.A. 
 
 ## This is me as a code
 ```cpp
